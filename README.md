@@ -3,8 +3,8 @@
 ## 使用
 - 安装 nodejs >= 6.0 ，[nodejs 官网](https://nodejs.org)
 - git clone `https://github.com/luxp/cmcc-edu.git`
+- `cd cmcc-edu`
 - `npm install`
-- cd `cmcc-edu`
 - 登录 `npm run on 手机号 密码`
 - 登出 `npm run off`
 
