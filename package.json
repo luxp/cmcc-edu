@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "node-fetch": "^1.6.3",
-    "cheerio": "latest"
+    "cheerio": "latest",
+    "co": "^4.6.0",
+    "node-fetch": "^1.6.3"
   },
   "devDependencies": {},
   "scripts": {
