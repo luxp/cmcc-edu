@@ -1,0 +1,17 @@
+{
+  "name": "edu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "cheerio": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "on": "node --harmony on.js",
+    "off": "node --harmony off.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
